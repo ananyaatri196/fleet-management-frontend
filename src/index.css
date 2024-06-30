@@ -1,0 +1,9 @@
+* {
+  /* Font styling applied to the whole website */
+  margin: 0;
+  padding: 0;
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  line-height: normal;
+}
